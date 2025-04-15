@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LBS College of Engineering Kasargod</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+
+    <!-- Dialogflow Messenger Script -->
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">LBS College of Engineering</div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Courses</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="overlay"></div>
+        <div class="hero-content">
+            <h1>Welcome to LBS College of Engineering</h1>
+            <p>Empowering students with knowledge and innovation</p>
+            <a href="#" class="btn">Explore More</a>
+        </div>
+    </section>
+
+    <!-- Dialogflow Messenger Chatbot -->
+    <df-messenger
+      intent="WELCOME"
+      chat-title="College_Crusader"
+      agent-id="331dd1e7-3b24-473d-8f88-577b7d3e7ea0"
+      language-code="en">
+    </df-messenger>
+</body>
+</html>
