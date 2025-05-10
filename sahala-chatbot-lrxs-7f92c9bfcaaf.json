@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "sahala-chatbot-lrxs",
-  "private_key_id": "7f92c9bfcaaffe91dc068a320c205df15ac4e0cd",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCa7m+KMjKd1Lvo\ndfrt0bGwKng7XLreL36ZE2lBIwpcl4uatMiRB8KLv9m34j5gwwDQ3PGdXKiGBXoh\n656vWKCcsBcShbvTk8leQXAV3+I5u68+ga7Jx2RxAVykJmnb6mMLf8gH2o18uy6Z\nrb2pNto9OkIUOuZ67cVjp7dd86N3jDRSffZDto1Y0oNl/SySo6wT5XNdMOuf631O\nTr9wgSpJYFGpKFJiq48oR5PfyNQWh7/BDqO3v7gUYO2+vfzT1oUwvu2niaYnIwXN\nT9sTszKpcekVb9mQW2+Lw4wrc0nivYttGQXCQb3U5NFbRKC8H8jWvbpI+pZ/LWPH\ngF4vns8DAgMBAAECggEAQdEi/0Fd8WDLRvC/3cHkS2NvWkCFfhgNHvh5EVvSbg1P\nGDTOs5XpVrb0xcJOH4sX0KLb3a7cRLsU7E4NRo5PBOFlm8/GQBabR/hiplhK4Z3S\nz6oF1+Bl0f/zHCTZebwzwVHSZ0u4KZHXNR/y32zW/4W9RpzTBsv1u+Um57m16vWy\nmibkPnEwRYhZnuZCE8fvCe+pvKp3KK/q5ZEwXDTMMyRkytqrFLssR0kKr2XgFgyA\nu1eQrVthplNwROzg5mKAoKy6Exy0ZGcgNe8mMy6544mRQT+Ga8jmnFH623+puhtw\neIazCKHsGpTcfmvJALFSyP9jkF4syLFXBokCVVc20QKBgQDIWqa+sO8U8XF0g3LV\n86kWOHuhpE78N57OJkUpSvLZz7gpbdvHf9X1JRLf/LbWl6fXhyCHWktROFtlzjKe\ncCKW8M/c/oURDM/DM+we4fDj/TioZO5AVQqIxWNW+Oj53crrNsI8AXygNoi/v005\nXsbPRBxSWFC5RqA8+53XaszbawKBgQDF9jCzK6JTKpW1LO38ToDj5/Lwa+ij10Yv\n5r4Ra+DdLcO0yQS2ElfNwhe1/RZRD6VIB/rRdnSfVpmtMdixEbKPe9PJHWbmlFIY\njwq1C/fLXVzNgSdVZZUy5hyc+lEboxn5tU2RyetjVLwqcUoeZbilLW2MwmfQhhLq\nM7l4vj2YyQKBgC6DlTiqPSdAkpV5Ovze779/53v0eH3nr8+uZNocU1sr9VZw8dhU\nHmkmbUZhFlWlqcrIzU1/MgMuMVHmWCweXnlqeOeWk3AM6GMqN8RHsjRMAo5duE5p\nL+Pm55Q2f2gbDNQkx11E/xj28DKMCDKshT1zU5vucvdApUzjIZb0bZD3AoGBAKHC\neijuDsZGle5luFHjFA8nCazLgF3hGskpk0ZJEIWrT6/6Uo80jerkHtvm4sV6M2SY\noKtoUAOjkA+mG5sVCwOT+4rrK5peuHa469bk4Kacs6h5UNrHFxNwVREwufYLYL5b\nF/d5N48DPn6v9BDCrg7LACl08b/CztHxUi0Hxu2BAoGASox3bP10nw1QR7mWgMMV\na79xYqvoJfzZAtMOCBAe1qZUNfTZaV3HjGFZzBnKJ1++kW1ZXZyJVLN8uDOyZ+/S\nvZkKWY44P5/RV44OSKSCM08z4cns/LXdroBg5wbDorLvmocphTpTxW3a0wMJ9qAt\nsXevUwqw1drtfeJ5hswG0Zw=\n-----END PRIVATE KEY-----\n",
-  "client_email": "service@sahala-chatbot-lrxs.iam.gserviceaccount.com",
-  "client_id": "100391508558382397661",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service%40sahala-chatbot-lrxs.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
